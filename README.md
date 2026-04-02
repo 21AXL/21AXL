@@ -14,12 +14,6 @@
   </ul>
 </div>
 <!--Intro start-->
-<ul>
-<li>
-</li>
-<li>
-</li>
-</ul>
 <!--Intro end-->
 <!--- stats & Trophy (start) -->
 <p align="center">
