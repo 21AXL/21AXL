@@ -16,10 +16,8 @@
 <!--Intro start-->
 <ul>
 <li>
-<p>🌱 I’m currently learning <strong>Rust</strong></p>
 </li>
 <li>
-<p>📫 Feel free to reach me out <strong><a href="mailto:tomasz.bawer@outlook.com">tomasz.bawer@outlook.com</a></strong></p>
 </li>
 </ul>
 <!--Intro end-->
