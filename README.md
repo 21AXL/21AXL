@@ -63,5 +63,5 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <hr>
-<p>Credit: <a href="https://github.com/devxavro">DevSzop</a></p>
+<p>Credit: <a href="https://github.com/21axl">21AXL</a></p>
 <p>Last Edited on: 07/5/2025</p> 
