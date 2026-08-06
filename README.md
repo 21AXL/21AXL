@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi, I'm Tom 🔮</h1>
-  <a href="https://www.instagram.com/itstombawer">
+  <a href="https://www.instagram.com/21AXL">
     <img src="https://img.shields.io/badge/instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://discord.com/users/1185730434798194689">
