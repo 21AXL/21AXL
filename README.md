@@ -22,4 +22,5 @@
 
 
 ## ✨ Weekly
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=21AXL)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
